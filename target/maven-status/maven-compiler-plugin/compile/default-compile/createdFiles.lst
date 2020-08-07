@@ -1,0 +1,8 @@
+study/Study.class
+app/Application.class
+factories/MathFactory.class
+factories/GUIFactory.class
+Demo.class
+study/EnglishStudy.class
+factories/EnglishFactory.class
+study/MathStudy.class
